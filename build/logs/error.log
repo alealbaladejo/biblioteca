@@ -1,0 +1,21 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.29.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 04 11:28:47.169017 2025] [mpm_prefork:notice] [pid 16:tid 16] AH00163: Apache/2.4.62 (Debian) PHP/8.2.27 configured -- resuming normal operations
+[Tue Feb 04 11:28:47.169089 2025] [core:notice] [pid 16:tid 16] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.30.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 04 11:41:06.843741 2025] [mpm_prefork:notice] [pid 32:tid 32] AH00163: Apache/2.4.62 (Debian) PHP/8.2.27 configured -- resuming normal operations
+[Tue Feb 04 11:41:06.843813 2025] [core:notice] [pid 32:tid 32] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.31.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 04 11:43:22.852971 2025] [mpm_prefork:notice] [pid 26:tid 26] AH00163: Apache/2.4.62 (Debian) PHP/8.2.27 configured -- resuming normal operations
+[Tue Feb 04 11:43:22.853043 2025] [core:notice] [pid 26:tid 26] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 04 11:51:46.611832 2025] [mpm_prefork:notice] [pid 28:tid 28] AH00163: Apache/2.4.62 (Debian) PHP/8.2.27 configured -- resuming normal operations
+[Tue Feb 04 11:51:46.611906 2025] [core:notice] [pid 28:tid 28] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.16.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 04 12:58:05.396578 2025] [mpm_prefork:notice] [pid 30:tid 30] AH00163: Apache/2.4.62 (Debian) PHP/8.2.27 configured -- resuming normal operations
+[Tue Feb 04 12:58:05.396666 2025] [core:notice] [pid 30:tid 30] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.32.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 04 13:02:15.110869 2025] [mpm_prefork:notice] [pid 26:tid 26] AH00163: Apache/2.4.62 (Debian) PHP/8.2.27 configured -- resuming normal operations
+[Tue Feb 04 13:02:15.110989 2025] [core:notice] [pid 26:tid 26] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 05 07:33:15.007029 2025] [mpm_prefork:notice] [pid 31:tid 31] AH00163: Apache/2.4.62 (Debian) PHP/8.4.3 configured -- resuming normal operations
+[Wed Feb 05 07:33:15.007128 2025] [core:notice] [pid 31:tid 31] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
