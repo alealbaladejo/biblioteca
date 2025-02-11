@@ -2,16 +2,16 @@ version: '3.8'
 services:
   app:
     container_name: contenedor_php
-    image: alealbaladejo/biblioteca:v1
+    image: alealbaladejo/biblioteca:v2
     restart: always
     environment:
-      - DB_HOST=${DB_HOST}
-      - DB_USER=${DB_USER}
-      - DB_PASS=${DB_PASS}
-      - DB_NAME=${DB_NAME}
-      - BASE_URL=${BASE_URL}
+      - DB_HOST=servidor_mysql
+      - DB_USER=admin
+      - DB_PASS=admin
+      - DB_NAME=biblioteca
+      - BASE_URL=http://172.22.200.117:8080/
     ports:
-      - ${PORT}:80
+      - "8080:80" 
     depends_on:
       - db
     volumes:
@@ -23,14 +23,14 @@ services:
     image: mariadb
     restart: always
     environment:
-      - MYSQL_DATABASE=${MYSQL_DATABASE}
-      - MYSQL_USER=${MYSQL_USER}
-      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
-      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+      - MYSQL_DATABASE=biblioteca
+      - MYSQL_USER=admin
+      - MYSQL_PASSWORD=admin
+      - MYSQL_ROOT_PASSWORD=admin
     volumes:
       - mariadb_data:/var/lib/mysql
     ports:
-      - "3306:3306"
+      - "3306:3306" 
 
 volumes:
   mariadb_data:

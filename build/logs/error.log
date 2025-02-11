@@ -19,3 +19,27 @@ AH00558: apache2: Could not reliably determine the server's fully qualified doma
 AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.3. Set the 'ServerName' directive globally to suppress this message
 [Wed Feb 05 07:33:15.007029 2025] [mpm_prefork:notice] [pid 31:tid 31] AH00163: Apache/2.4.62 (Debian) PHP/8.4.3 configured -- resuming normal operations
 [Wed Feb 05 07:33:15.007128 2025] [core:notice] [pid 31:tid 31] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.128.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 11 12:13:10.851429 2025] [mpm_prefork:notice] [pid 30:tid 30] AH00163: Apache/2.4.62 (Debian) PHP/8.4.3 configured -- resuming normal operations
+[Tue Feb 11 12:13:10.851588 2025] [core:notice] [pid 30:tid 30] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.144.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 11 12:21:49.014934 2025] [mpm_prefork:notice] [pid 29:tid 29] AH00163: Apache/2.4.62 (Debian) PHP/8.4.3 configured -- resuming normal operations
+[Tue Feb 11 12:21:49.015005 2025] [core:notice] [pid 29:tid 29] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.160.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 11 12:25:19.294044 2025] [mpm_prefork:notice] [pid 29:tid 29] AH00163: Apache/2.4.62 (Debian) PHP/8.4.3 configured -- resuming normal operations
+[Tue Feb 11 12:25:19.294123 2025] [core:notice] [pid 29:tid 29] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.176.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 11 12:25:48.580149 2025] [mpm_prefork:notice] [pid 35:tid 35] AH00163: Apache/2.4.62 (Debian) PHP/8.4.3 configured -- resuming normal operations
+[Tue Feb 11 12:25:48.580218 2025] [core:notice] [pid 35:tid 35] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.192.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 11 12:31:34.575933 2025] [mpm_prefork:notice] [pid 31:tid 31] AH00163: Apache/2.4.62 (Debian) PHP/8.4.3 configured -- resuming normal operations
+[Tue Feb 11 12:31:34.576012 2025] [core:notice] [pid 31:tid 31] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.208.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 11 12:32:44.961176 2025] [mpm_prefork:notice] [pid 19:tid 19] AH00163: Apache/2.4.62 (Debian) PHP/8.4.3 configured -- resuming normal operations
+[Tue Feb 11 12:32:44.961277 2025] [core:notice] [pid 19:tid 19] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.224.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 11 12:35:10.960864 2025] [mpm_prefork:notice] [pid 35:tid 35] AH00163: Apache/2.4.62 (Debian) PHP/8.4.3 configured -- resuming normal operations
+[Tue Feb 11 12:35:10.960935 2025] [core:notice] [pid 35:tid 35] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.240.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 11 12:40:33.246948 2025] [mpm_prefork:notice] [pid 31:tid 31] AH00163: Apache/2.4.62 (Debian) PHP/8.4.3 configured -- resuming normal operations
+[Tue Feb 11 12:40:33.247027 2025] [core:notice] [pid 31:tid 31] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
